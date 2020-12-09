@@ -13,7 +13,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)][telegram]
 [![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=4680C2)][vk]
 [![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)][twitter]
+[![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=FCA121)][gitlab]
 
+[gitlab]: https://gitlab.com/M.Bobrovskii
 [vk]: https://vk.com/bobrminator3000
 [telegram]: https://t.me/Maksimbobrovskiy
 [twitter]: https://twitter.com/slimenion
@@ -39,8 +41,6 @@
 <details>
   <summary>Other</summary>
 
-![GitHub](https://img.shields.io/badge/-GitHub-FFF?style=for-the-badge&logo=GitHub&logoColor=181717)
-![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=FCA121)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
 
 </details>
